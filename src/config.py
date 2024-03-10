@@ -1,0 +1,10 @@
+
+# ZohoPeople Configurations
+ZP_CLIENT_ID = "1000.8IPZQM7E1E1P7UBJ77XM1H17KSK70Q"
+ZP_CLIENT_SECRET = "d85b3697fca9c44f80d4d39d4e44438a9ab9205c28"
+ZP_CODE = "1000.6d8ae1d9fc2b7805f063357bf6c293ea.09814bea6e27a6ca51aa9f0619d3f770"
+ZP_ACCESS_TOKEN = ""
+ZP_REFRESH_TOKEN = ""
+ZP_BASE_URI = "https://people.zoho.in"
+ZP_OAUTH_VERSION = "/oauth/v2"
+ZP_REDIRECT_URI = "https://portal.appseconnect.com"
